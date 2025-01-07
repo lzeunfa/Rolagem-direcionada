@@ -1,2 +1,2 @@
 # Rolagem-direcionada
- Exercicio para praticar que ao clicar em uma palavra a página role até onde está a explicação
+ Exercicio para praticar que ao clicar em um link a página role até a section
